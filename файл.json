@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "name": "Шоколад",
+            "price": 50,
+            "available": true,
+            "weight": 100
+        },
+        {
+            "name": "Кофе",
+            "price": 100,
+            "available": false,
+            "weight": 250
+        },
+        {
+            "name": "Чай",
+            "price": 70,
+            "available": true,
+            "weight": 50
+        },
+        {
+            "name": "хлеб",
+            "price": "0",
+            "weight": "9",
+            "available": false
+        },
+        {
+            "name": "Шоколад",
+            "price": "150",
+            "weight": "900",
+            "available": true
+        },
+        {
+            "name": "шоколад",
+            "price": "150",
+            "weight": "60",
+            "available": true
+        },
+        {
+            "name": "шоколад",
+            "price": "150",
+            "weight": "60",
+            "available": true
+        }
+    ]
+}
